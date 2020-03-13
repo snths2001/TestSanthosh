@@ -1,0 +1,8 @@
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\bin\Debug\netstandard2.0\SanMVCBO.deps.json
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\bin\Debug\netstandard2.0\SanMVCBO.dll
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\obj\Debug\netstandard2.0\SanMVCBO.csprojAssemblyReference.cache
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\obj\Debug\netstandard2.0\SanMVCBO.AssemblyInfoInputs.cache
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\obj\Debug\netstandard2.0\SanMVCBO.AssemblyInfo.cs
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\bin\Debug\netstandard2.0\SanMVCBO.pdb
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\obj\Debug\netstandard2.0\SanMVCBO.dll
+C:\SanSWork\SANCORE\MVC\SanMVC\SanMVCBO\obj\Debug\netstandard2.0\SanMVCBO.pdb
